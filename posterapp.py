@@ -15,8 +15,8 @@ class PosterApp(object):
     def Initialize(self):
         self.bot = telebot.TeleBot(self.botToken)
         telebot.apihelper.proxy = self.proxySettings
-        self.weber = weber.Weber()
-        self.poster = bussines.Poster(self.weber)
+        #self.weber = weber.Weber()
+        self.poster = bussines.Poster()#self.weber)
 
     def RegisterBotHandlers(self):
         @self.bot.message_handler(commands=['help'])
@@ -25,7 +25,7 @@ class PosterApp(object):
 
         @self.bot.message_handler(commands=['ping'])
         def pong(message):
-            self.bot.reply_to(message, "hello there")
+            self.bot.reply_to(message, "hello there UserId: "+self.poster.GetUserIdUnchecked())
 
         @self.bot.message_handler(commands=['shutdown'])
         def shutdown(message):
@@ -43,6 +43,7 @@ class PosterApp(object):
 
         @self.bot.message_handler(commands=['delete'])
         def deletePost(message):
+            raise Exception('Not implemented');
             answer = helpers.ResultOrExceptionMsg(lambda: self.poster.DeletePost(_GetDestination(message.text)))
             self.bot.reply_to(message, answer)
 

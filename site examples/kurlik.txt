@@ -1,0 +1,669 @@
+name=%C8%E2%E0%ED
+secondname=Fedorov
+town
+homepage
+hideemail=on
+text
+interests
+action=autopost
+huyita=2f8fa2c111a70b3b
+{
+  "log": {
+    "version": "1.2",
+    "creator": {
+      "name": "Firefox",
+      "version": "68.0"
+    },
+    "browser": {
+      "name": "Firefox",
+      "version": "68.0"
+    },
+    "pages": [
+      {
+        "startedDateTime": "2019-07-20T01:25:29.543+03:00",
+        "id": "page_1",
+        "pageTimings": {
+          "onContentLoad": 196,
+          "onLoad": 217
+        }
+      }
+    ],
+    "entries": [
+      {
+        "pageref": "page_1",
+        "startedDateTime": "2019-07-20T01:25:29.543+03:00",
+        "request": {
+          "bodySize": 0,
+          "method": "GET",
+          "url": "https://gamedev.ru/users/?a=edit&id=82749",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "gamedev.ru"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0"
+            },
+            {
+              "name": "Accept",
+              "value": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+            },
+            {
+              "name": "Accept-Language",
+              "value": "en-US,en;q=0.5"
+            },
+            {
+              "name": "Accept-Encoding",
+              "value": "gzip, deflate, br"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Referer",
+              "value": "https://gamedev.ru/users/?id=82749"
+            },
+            {
+              "name": "Cookie",
+              "value": "SID=82749cthnrdiugkoxttbf"
+            },
+            {
+              "name": "Upgrade-Insecure-Requests",
+              "value": "1"
+            }
+          ],
+          "cookies": [
+            {
+              "name": "SID",
+              "value": "82749cthnrdiugkoxttbf"
+            }
+          ],
+          "queryString": [
+            {
+              "name": "a",
+              "value": "edit"
+            },
+            {
+              "name": "id",
+              "value": "82749"
+            }
+          ],
+          "headersSize": 424
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Server",
+              "value": "nginx/Zenon version"
+            },
+            {
+              "name": "Date",
+              "value": "Fri, 19 Jul 2019 22:25:29 GMT"
+            },
+            {
+              "name": "Content-Type",
+              "value": "text/html; charset=windows-1251"
+            },
+            {
+              "name": "Content-Length",
+              "value": "2597"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "X-Powered-By",
+              "value": "PHP/5.2.17"
+            },
+            {
+              "name": "Last-Modified",
+              "value": "Fri, 19 Jul 2019 22:25:29 GMT"
+            },
+            {
+              "name": "Expires",
+              "value": "Mon, 24 Oct 2008 05:00:00 GMT"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "no-store, no-cache, must-revalidate"
+            },
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "Vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "Content-Encoding",
+              "value": "gzip"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "mimeType": "text/html; charset=windows-1251",
+            "size": 7368,
+            "text": "<!DOCTYPE html>\n<html lang=\"ru\">\n<head>\n <meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\" />\n <meta charset=\"Windows-1251\" />\n <meta http-equiv=\"Content-Language\" content=\"ru\" />\n <meta name=\"viewport\" content=\"width=device-width, height=device-height\" />\n <title>Редактирование данных пользователя Fedor1995</title>\n <meta name=\"Description\" content=\"Редактирование данных пользователя Fedor1995\" />\n <meta name=\"Keywords\" content=\"Редактирование, данных, пользователя, Fedor1995\" />\n <link href=\"https://gamedev.ru/favicon.ico\" rel=\"SHORTCUT ICON\" />\n <link href=\"https://gamedev.ru/_css/main.css?v=113\" rel=\"stylesheet\" type=\"text/css\" />\n \n <script type=\"application/javascript\" src=\"https://gamedev.ru/_js/skif.js?v=83\"></script>\n <link href=\"https://plus.google.com/109184614944486802626\" rel=\"publisher\" />\n <link rel=\"icon\" type=\"image/png\" href=\"/apple-touch-icon-196x196.png\" sizes=\"196x196\" />\n \n \n</head>\n\n<body>\n<div id=\"tool\">\n  <div class=\"bound unselectable\">\n    <div class=\"scroll-icons\">\n      <a id=\"menu_toggle\" href=\"#\" class=\"tool\"><span class=\"menu icon\"></span></a>\n        <div id=\"menu\" data-visible=\"0\"><div class=\"content\">\n          \n<ul>\n <li><a href=\"https://gamedev.ru/news/\" title=\"Новости в области разработки игр\">Новости</a></li>\n <li><a href=\"https://gamedev.ru/articles/\" title=\"Статьи для разработчиков игр\">Статьи</a></li>\n <li><a href=\"https://gamedev.ru/tip/\" title=\"Подсказки\">Подсказки</a></li>\n <li><a href=\"https://gamedev.ru/terms/\" title=\"Описание терминов в разработке игр\">Термины</a></li>\n <li><a href=\"https://gamedev.ru/faq/\" title=\"FAQ: Ответы на частозадаваемые вопросы\">FAQ</a></li>\n <li><a href=\"https://gamedev.ru/pages/\" title=\"Персональные страницы пользователей\">Страницы</a></li>\n <li><a href=\"https://gamedev.ru/community/\" title=\"Сообщества: Пользовательские разделы с группами участников\">Сообщества</a></li>\n <li><a href=\"https://gamedev.ru/forum/\" title=\"Форум разработчиков игр\">Форум</a></li>\n <li><a href=\"https://gamedev.ru/files/\" title=\"Качалка: Файлы и изображения\">Качалка</a></li>\n <li><a href=\"https://gamedev.ru/members/\" title=\"Участники проекта GameDev.ru\">Участники</a></li>\n <li class=\"sel\"><a href=\"https://gamedev.ru/users/\" title=\"Регистрации пользователей\">Пользователи</a>\n<ul>\n <li><a href=\"https://gamedev.ru/messages/\" title=\"Приватные сообщения\">Сообщения</a></li>\n <li><a href=\"https://gamedev.ru/help/levels\" title=\"Уровни пользователей\">Уровни</a></li>\n <li><a href=\"https://gamedev.ru/users/?online\" title=\"Список страниц, запрошенных за последнее время.\">Online</a></li>\n <li><a href=\"https://gamedev.ru/users/?a=logoff\" title=\"Выход из системы\">Выйти</a></li>\n</ul></li>\n</ul>\n\n          <div id=\"style\" class=\"button gray\">Тёмная тема</div>\n        </div></div>\n      <a href=\"https://gamedev.ru/\" class=\"tool\"><span class=\"gamedev icon mobile\"></span><span class=\"gamedev-logo not-mobile\"></span></a>\n      <a href=\"https://gamedev.ru/pubs\" class=\"tool\"><span class=\"pubs icon mobile\"></span><span class=\"tool not-mobile\">Публикации</span></a>\n      <a href=\"https://gamedev.ru/projects/forum/\" class=\"tool\"><span class=\"projects icon mobile\"></span><span class=\"tool not-mobile\">Проекты</span></a>\n      <a href=\"https://gamedev.ru/forum/\" class=\"tool\"><span class=\"forum icon mobile\"></span><span class=\"tool not-mobile\">Форум</span></a>\n      <a href=\"https://gamedev.ru/job/forum/\" class=\"tool\"><span class=\"job icon mobile\"></span><span class=\"tool not-mobile\">Работа</span></a>\n      <a id=\"search_toggle\" href=\"#\" class=\"tool\"><span class=\"lupa icon\"></span></a>\n    </div>\n    <div id=\"search\"></div>\n\n    <div id=\"enter-pos\">\n      <a id=\"profile\" class=\"tool\"><span class=\"nouser icon\"></span><span class=\"arrowdown icon narrow\"></span></a>\n      <div id=\"modal\" class=\"veil\"><div id=\"modal_pos\" class=\"bound\"><div class=\"modal-content\">\n       <a class=\"profile\" href=\"https://gamedev.ru/users/?id=82749\" title=\"\">Профиль</a> <a class=\"profile\" href=\"https://gamedev.ru/users/?a=custom&amp;id=82749\" title=\"\">Настройки</a> <a class=\"profile\" href=\"https://gamedev.ru/messages/\" title=\"Персональные сообщения\">Сообщения</a> <hr> <a class=\"profile\" href=\"https://gamedev.ru/users/?id=82749&amp;lasttop\" title=\"Темы форума, где вы оставили сообщения\">Участие в темах</a> <a class=\"profile\" href=\"https://gamedev.ru/users/?id=82749&amp;a=messages\" title=\"Сообщения в обратном порядке\">Сообщения на форуме</a> <a class=\"profile\" href=\"https://gamedev.ru/users/?id=82749&amp;a=subscrb\" title=\"Темы форума, на которые вы подписаны\">Подписка на темы</a> <a class=\"profile\" href=\"https://gamedev.ru/users/?id=82749&amp;a=createdtopics\" title=\"Темы форума, которые вы создали\">Созданные темы</a> <hr> <a class=\"profile\" href=\"https://gamedev.ru/users/?id=82749&amp;a=logoff\" title=\"\">Выход</a>\n      </div></div></div>\n\n    </div>\n  </div>\n</div>\n\n\n<div class=\"bound\">\n\n\n \n <h1 itemprop=\"name headline\">Редактирование данных пользователя Fedor1995</h1>\n<p><b>Fedor1995</b> (<a href=\"https://gamedev.ru/users/?a=changehpass&id=82749\">Сменить ник и пароль</a>)\n<br /><b>E-mail:</b> Fedo.1.0.9.5@gmail.com (<a href=\"https://gamedev.ru/users/?a=changeemail&id=82749\">Сменить</a>)</p>\n\n<script language=\"JavaScript\">\n<!--\nfunction verifySubmitFields(form)\n{\n\t\n\n\tpostform._gdr_post.disabled = true;\n\treturn true;\n}\n-->\n</script>\n<form name=\"postform\" method=\"POST\" action=\"?a=edit&id=82749\"  onSubmit=\"return verifySubmitFields(this)\">\n\n<p><b>Имя:</b> <br /><input name=\"name\" value=\"Иван\" size=\"24\" maxlength=\"24\" />\n<p><b>Фамилия:</b> <br /><input name=\"secondname\" value=\"Fedorov\" size=\"24\" maxlength=\"24\" />\n<p><b>Населённый пункт:</b> <br /><input name=\"town\" value=\"\" size=\"24\" maxlength=\"24\" />\n<p><b>Домашняя страница:</b> <br /><input name=\"homepage\" value=\"\" size=\"64\" maxlength=\"64\" />\n<p><label for=\"hideemail\"><input type=\"checkbox\" id=\"hideemail\" name=\"hideemail\" checked />Не показывать e-mail другим пользователям</label>\n\n<p><b>Дополнительная Информация:</b> (Необязательно) Максимум 1000 символов. Отправить: Ctrl+Shift+Enter</p>\n<p><span id=\"areatags\"></span>\n<textarea class=\"gdr\" name=\"text\" cols=\"68\" rows=\"8\" onkeydown=\"key_pressed(event);\"></textarea></p>\n<p><b>Интересы:</b> (Перечислите через запятую)<br /><input name=\"interests\" value=\"\" size=\"80\" maxlength=\"400\" />\n<input type=\"hidden\" name=\"action\" value=\"autopost\" />\n<input type=\"hidden\" name=\"huyita\" value=\"2f8fa2c111a70b3b\" />\n<p class=\"r\"><input id=\"_gdr_post\" name=\"_gdr_post\" type=\"submit\" class=\"blue\" value=\"Отправить\" /></p>\n</form>\n<a href=\"?a=delete&id=82749\" title=\"Удалить регистрацию пользователя\">Удалить пользователя</a>\n\n\n\n</div>\n\n<div class=\"footer\"><div class=\"bound\">\n\n<div class=\"footblock r right text\">\n  <div id=\"social\"></div>\n</div>\n\n<div class=\"footblock text\">\n<a href=\"https://gamedev.ru/?info\" class=\"gray\">Контакт</a>\n<a href=\"https://gamedev.ru/community/\" class=\"gray\">Сообщества</a>\n<a href=\"https://gamedev.ru/members/\" class=\"gray\">Участники</a>\n<a href=\"https://gamedev.ru/top/\" class=\"gray\">Каталог сайтов</a>\n<a href=\"https://gamedev.ru/tags/\" class=\"gray\">Категории</a>\n<a href=\"https://gamedev.ru/news/?adoc=arch\" class=\"gray\">Архив новостей</a>\n</div>\n\n  <div class=\"center q\"><b>GameDev.ru — Разработка игр</b><br />&copy;2001—2019</div>\n\n</div></div>\n\n \n<script type=\"application/javascript\"><!--\nskif.run();\n\n//-->\n</script>\n</body>\n</html>\n"
+          },
+          "redirectURL": "",
+          "headersSize": 407,
+          "bodySize": 3004
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": 0,
+          "connect": 7,
+          "ssl": 14,
+          "send": 0,
+          "wait": 28,
+          "receive": 0
+        },
+        "time": 49,
+        "_securityState": "secure",
+        "serverIPAddress": "213.189.196.125",
+        "connection": "443"
+      },
+      {
+        "pageref": "page_1",
+        "startedDateTime": "2019-07-20T01:25:29.715+03:00",
+        "request": {
+          "bodySize": 0,
+          "method": "GET",
+          "url": "https://gamedev.ru/_css/main.css?v=113",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "gamedev.ru"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0"
+            },
+            {
+              "name": "Accept",
+              "value": "text/css,*/*;q=0.1"
+            },
+            {
+              "name": "Accept-Language",
+              "value": "en-US,en;q=0.5"
+            },
+            {
+              "name": "Accept-Encoding",
+              "value": "gzip, deflate, br"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Referer",
+              "value": "https://gamedev.ru/users/?a=edit&id=82749"
+            },
+            {
+              "name": "Cookie",
+              "value": "SID=82749cthnrdiugkoxttbf"
+            }
+          ],
+          "cookies": [
+            {
+              "name": "SID",
+              "value": "82749cthnrdiugkoxttbf"
+            }
+          ],
+          "queryString": [
+            {
+              "name": "v",
+              "value": "113"
+            }
+          ],
+          "headersSize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Server",
+              "value": "nginx/Zenon version"
+            },
+            {
+              "name": "Date",
+              "value": "Fri, 19 Jul 2019 21:05:47 GMT"
+            },
+            {
+              "name": "Content-Type",
+              "value": "text/css"
+            },
+            {
+              "name": "Content-Length",
+              "value": "4635"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Last-Modified",
+              "value": "Wed, 13 Feb 2019 06:13:29 GMT"
+            },
+            {
+              "name": "Accept-Ranges",
+              "value": "bytes"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "max-age=604800, public"
+            },
+            {
+              "name": "Expires",
+              "value": "Sun, 18 Aug 2019 21:05:47 GMT"
+            },
+            {
+              "name": "Vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "Content-Encoding",
+              "value": "gzip"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "mimeType": "text/css",
+            "size": 18937,
+            "text": "html {height: 100%;}\nbody { margin: 0em; padding-top: 50px; text-align: center; height: 100%; box-sizing: border-box; }\n\ndiv { font-family: verdana, arial, sans-serif; padding: 0; margin: 0; width: 100%; }\n\ndiv.bound { max-width: 900px; text-align: left; display: block; padding: 0; margin: auto;}\ndiv.bound div { width: auto; }\ndiv.wide { padding-top: 10px; }\n.overflow { overflow: auto; }\n\ndiv.path { background-color: #f0f0f0; padding: 0px 0px 0px 0px; height: 43px;}\ndiv.path a:link { color: #606060; padding: 12px 15px 0 2px; display: inline-block; }\n\ndiv.path a:visited { color: #606060; }\ndiv.path a:hover { text-decoration: underline; }\ndiv.path img { max-width: 40px; max-height: 34px; border-radius: 3px; margin: 0 5px; padding: 0; vertical-align: -60%; }\ndiv.path input[type=submit] { margin-top: 4px; }\n\n#l { margin-top: 10px; display: inline-block; }\n\ndiv.timePassed { background: #f8f8f8; color: #e0e0e0; font-size: x-large; font-weight: bold; padding: 15px 0; margin-bottom: 5px;\n\tborder-top: 2px solid #f0f0f0; }\n\nh1 { font-family: \"PT Serif\", verdana, arial; font-size: 2em; padding: 5px; overflow-wrap: break-word; }\n\np { padding: 0.5em 5px; margin: 0; }\np.mar {text-indent: 2em;}\n\nimg {border: 0; max-width: 100%;}\nimg.tex {vertical-align: middle}\n\n.center {text-align: center;}\n.r { text-align: right; }\n.right { float: right; }\n.small { font-size: small; }\n.bold {font-weight: bold; }\n\n\n.show { display: block; }\n.veil { position: fixed; left: 0; top: 0; right: 0; bottom: 0; z-index: 3; background-color: black; background-color: rgba(0,0,0,0.4); display: none; }\n\ndiv.clear {clear: both}\n\nspan.red  {color: #FF0000;}\nspan.green{color: #00FF00;}\nspan.blue {color: #0000FF;}\nspan.q    {color: #808080;}\n\n#tool {\n\tposition: fixed;\n\tleft: 0; top: 0; right: 0;\n\theight: 50px;\n\tbackground-color: #244c65;\n\tbox-shadow: 0 1px 0 rgba(27, 27, 27, 0.2);\n\tz-index: 2;\n}\n\na.tool {\n\tcolor: #dfdfdf;\n\ttext-decoration: none;\n\theight: 50px;\n\tdisplay: inline-block;\n\tpadding-left: 10px;\n\tpadding-right: 10px;\n\tvertical-align: top;\n\tcursor: pointer;\n}\n\na.tool:link, a.tool:visited { color: #dfdfdf; }\na.tool:hover {background-color: #345c75; text-decoration: none;}\n\ndiv.scroll-icons { display: inline-block; overflow-y: hidden; overflow-x: hidden; white-space: nowrap; max-height: 60px; }\n\nspan.gamedev-logo {\n\tbackground-image: url('/_img/gamedev_logo.svg');\n\tbackground-repeat: no-repeat;\n\twidth: 140px;\n\theight: 32px;\n\tpadding-top: 18px;\n\tbackground-position: center;\n}\n\nspan.icon {\n\tbackground-image: url('/_img/gamedev_menu.svg');\n\tbackground-repeat: no-repeat;\n\tdisplay: inline-block;\n\twidth: 32px;\n\theight: 32px;\n\tpadding-top: 18px;\n}\n\nspan.narrow {\n\twidth: 8px;\n}\n\nspan.menu { background-position: 0px center; opacity: 0.7; }\nspan.gamedev { background-position: -32px center; }\nspan.pubs { background-position: -64px center; }\nspan.projects { background-position: -98px center; }\nspan.job { background-position: -160px center; }\nspan.forum { background-position: -128px center; }\nspan.lupa { background-position: -192px center; }\nspan.nouser { background-position: -224px center; }\nspan.arrowdown { background-position: -268px center; }\n\n\na.set {\n\tdisplay: inline-block;\n\tmargin: 0px 4px;\n\tpadding: 0 5px 0 5px;\n\tbox-sizing: border-box;\n}\n\na.set span {\n\tbackground-image: url('/_img/gamedev_set.svg?v=1');\n\tbackground-repeat: no-repeat;\n\tdisplay: inline-block;\n\twidth: 16px;\n\theight: 16px;\n\tmargin-bottom: -4px;\n\topacity: 0.6;\n}\n\na.set:hover span { opacity: 1; }\n\nspan.edit { background-position: 0px center; }\na.set:hover span.edit { background-position: -16px center; }\nspan.delete { background-position: -32px center; }\na.set:hover span.delete { background-position: -48px center; }\nspan.quote { background-position: -64px center; }\na.set:hover span.quote { background-position: -80px center; }\n\n\nspan.tool { padding-top: 15px; }\n\nspan.mobile { display: none; }\n.not-mobile { display: inline-block; }\n.desktop { display: none; }\n\n\ndiv.enter-button {\n\tmargin: 8px 5px 6px 5px;\n}\n\n#enter-pos {\n\tbackground-color: #244c65;\n\tfloat: right;\n}\n\nimg.pic { max-width: 36px; max-height: 30px; border-radius: 3px; margin: 0 6px 10px 0; padding: 0; }\n\n\n.modal-content {\n\tposition: relative;\n\ttop: 50px;\n\tfloat: right;\n\ttext-align: left;\n    background-color: #fefefe;\n    padding: 20px;\n    border: 1px solid #84acc5;\n    width: 90%;\n    max-width: 450px;\n    display: block;\n    border-radius: 4px;\n\tbox-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);\n}\n\n#close {\n    color: #aaa;\n    float: right;\n    font-size: 28px;\n    font-weight: bold;\n}\n\n#close:hover,\n#close:focus {\n    color: black;\n    text-decoration: none;\n    cursor: pointer;\n}\n\n\n#search {\n\tposition: fixed;\n\tbackground-color: #e0e0e0;\n    top: 50px;\n    z-index: 2;\n    min-height: 50px;\n    width: 100%;\n    max-width: 900px;\n\tdisplay: none;\n\tbox-shadow: 2px 2px 2px 0px rgba(0,0,0,0.2);\n}\n\n#search div {\n\tposition: absolute;\n\tleft: 0;\n\tright: 5.5em;\n\tpadding: 10px 0 8px 8px;\n}\n#search input[type=text] { width: 100%; }\n#search input[type=submit] { margin: 8px 8px 8px 2px; float: right; }\n\n#menu {\n\tposition: fixed;\n\tcolor: d0d0d0;\n    background-color: rgb(205, 213, 223);\n    width: 150px;\n    top: 50px;\n    bottom: 0;\n    left: 0;\n    overflow: auto;\n    display: none;\n}\n\n#menu .content {\n\tpadding: 10px;\n}\n\n#menu ul {padding: 0; margin:0px; margin-bottom: 10px}\n#menu ul li {margin: 1px; padding: 5px 5px; list-style: none;}\n#menu ul a {color: #606060; text-decoration: none; display: inline-block; width: 100%;}\n#menu ul a:hover {color: #000000; }\n\n\nul.menu li.sel {background: #2e2e2e; margin: 1px; padding: 1px; padding-left: 3px; }\nul.menu li.sub {background: #CDD5DF; margin: 1px; padding: 2px; }\nul.menu li ul {background: #CDD5DF; list-style: none; padding: 0px; padding-top: 2px;margin: 0px;}\nul.menu li ul li {border-top: 1px solid #E7EDF3; background: #CDD5DF; margin: 0px; padding: 3px; padding-left: 8px; }\nul.menu li ul li.sel {border-top: 1px solid #E7EDF3; background: #CDD5DF; margin: 0px; padding: 3px; padding-left: 1px; }\n\n.dropdown { position: relative; display: inline-block; }\n\n.dropdown_view {\n\tdisplay: none;\n\tposition: absolute;\n\tright: 0;\n\tbackground-color: #ffffff;\n\tmin-width: 100px;\n\toverflow: auto;\n\tbox-shadow: 0px 2px 4px 0px rgba(0,0,0,0.2);\n\tz-index: 5;\n\tborder-radius: 4px;\n\ttext-align: left;\n}\n\n.dropdown_view a { padding: 8px 16px; display: block; }\n.dropdown_view a:hover { background-color: #ddd; }\n\n\na.profile { padding: 8px 16px; display: block; }\n\n\n#sitename {color: #0b4480; text-decoration: none; font-style:italic; font-weight: bold; font-size: 46px; font-family: impact, shonar, arial; text-shadow: 0px 0px 1px #A7ABB3; margin-left: 3px;}\n#sitename:hover {color: #BF3A00;}\n\n\n#container{ position: relative; width: 100%;}\n#left     { width: 120px; margin: 0px; float: left}\n#main     { background: #FFFFFF; border-radius: 3px; width: auto; min-height: 200px; margin-left: 122px; margin-right: 4px; padding: 4px; padding-left: 8px; padding-right: 8px; padding-bottom: 8px; }\n#right    { display: none; position: absolute; top: 0px; right: 0px; }\n\n#main.show_right {margin-right: 160px;}\n#right.show_right{display: block; width: 160px;}\n\ndiv.overright {overflow: auto; max-height: 360px;}\ndiv.block{border: 0px; padding: 0px; margin-left: 5px; margin-right: 2px; margin-top: 10px; margin-bottom: 2px;}\ndiv.text {padding-top: 2px; padding-left: 6px; padding-right: 6px; padding-bottom: 10px;}\ndiv.mes {border: 1px solid #c5d5f0; padding: 1px; margin-left: 0px; margin-right: 0px; margin-top: 2px; margin-bottom: 10px; height: 1%;}\ndiv.docs {border: 1px solid #c5d5f0; padding: 3px; margin-left: 0px; margin-right: 0px; margin-top: 2px; margin-bottom: 20px;}\n\ndiv.title {color: #00304b; background: #aecccc; border-top-left-radius: 2px; border-top-right-radius: 2px; font-size: large; padding: 4px; padding-left: 10px; margin-left: -4px; margin-right: -4px; margin-bottom: 4px}\ndiv.code {background: #e8e8e8; }\ndiv.quote, blockquote {background: #EFEFEF; border: 2px solid #ffffff; margin-left: 25px; margin-right: 25px; padding: 5px}\ndiv.offtop {color: #808080; margin-left: 10px; margin-right: 25px; padding: 5px; font-size: small; }\n\nspan.splink {border-left: 1px solid #EFEFEF; border-top: 1px solid #EFEFEF; border-bottom: 1px dashed; color: #1E2E5C; cursor: pointer; display: inline-block; margin: 3px; padding: 4px;}\nspan.splink :hover {color: #BF3A00;}\n\ndiv.menu {border: 1px solid #a6bfdc; padding: 1px; margin-bottom: 10px}\ndiv.menu p {background: #92B4D7; font-weight: bold; min-height: 15px; margin: 1px; padding: 2px}\n\ndiv.submenu {padding: 0px; margin: 0px}\ndiv.submenu p {background: #CDD5DF; font-weight: normal; min-height: 15px; margin: 1px; padding: 2px}\n\n\ndiv.list {background: #E5E5E5; color: #808080; min-height: 15px; border: 1px; margin: 1px; padding: 2px 6px}\ndiv.sect {background: #D5E0E0; font-size: 1.4em; font-weight: bold; margin-top: 10px; padding: 4px 6px; }\ndiv.rubric {background: #E5E5E5; font-size: 1.1em; font-weight: bold; margin-top: 5px; padding: 2px 20px; }\ndiv.sect a:visited, div.rubric a:visited {color: #0E66bA; }\n\ndiv.menuitem {background: #92B4D7; font-weight: bold; min-height: 15px; border: 1px; margin: 1px; padding: 2px}\ndiv.menusel  {background: #cDd5df; font-weight: bold; height: 15px; border: 1px; margin: 1px; padding: 1px}\ndiv.menucode {background: #CDD5DF; min-height: 15px; border: 1px; margin: 1px; padding: 1px}\ndiv.menuco   {background: #D5E0E0; min-height: 15px; border: 1px; margin: 1px; padding: 1px}\ndiv.doccode {background: #EFEFEF; padding: 3px; margin-left: 0px; margin-right: 0px; margin-top: 2px; margin-bottom: 2px;}\ndiv.docco   {background: #E7EDF3; margin-left: 0px; margin-right: 0px; margin-top: 2px; margin-bottom: 2px;}\n\ndiv.row { border-bottom: 1px solid #EFEFEF; margin-left: 3.2em; margin-bottom: 1px; padding: 0.2em 0.5em; overflow-wrap: break-word; }\nspan.row { float: left; display: block; width: 2.9em; text-align: center; padding: 0.3em 0; margin-top: 0.3em; border-radius: 3px}\n\ndiv.menu p a {color: #00002A; text-decoration: none;}\ndiv.menu p a:hover {color: #FFFFFF;}\n\n\na:link    {color: #0E66bA; text-decoration: none;}\na:visited {color: #65a0e5; text-decoration: none;}\na:active  {color: #00304B; text-decoration: underline;}\na:hover   {color: #BF3A00; text-decoration: underline;}\na:hover::before { text-decoration: none; }\nh2 a:link {color: #004E8C;}\nh2 a:visited {color: #004E8C;}\ntable.mes th a:link {color: #004E8C;}\ntable.mes th a:visited {color: #004E8C;}\n\nspan.q a:link, span.q a:visited {color: #808080;}\n\n\ntable.code {padding: 0; margin: 0;}\n\ntable.page { width: 100%; }\ntable.page th { background: #bbccda; padding: 3px; text-align: left; font-weight: bold;}\ntable.page th.center {text-align: center;}\ntable.page th a:link {color: #004E8C;}\ntable.page th a:visited {color: #004E8C;}\n\ntable.page tr.sec td {background: #dadde2;}\ntable.page tr.red td {background: #f0c4c1;}\n\ntable.page td {background: #e6e6e6; padding: 3px; }\ntable.page td b a:link    {color: #1E4E8C; text-decoration: none;}\ntable.page td b a:visited {color: #7196BB; text-decoration: none;}\ntable.page td b a:active  {color: #00304B; text-decoration: underline;}\ntable.page td b a:hover   {color: #BF3A00; text-decoration: underline;}\n\n\ntable.mes {width: 100%;}\ntable.mes th {background: #D5E0E0; text-align: left; width: auto; padding-left: 3px;}\ntable.mes th.red {background: #E5D0D0;}\ntable.mes th.red a {color: #2E2E5C;}\ntable.mes th.red a:hover {color: #BF3A00; text-decoration: underline; }\ntable.mes td {background: #DCDCDD; color: #808080; text-align: right; width: 45px; padding: 2px;}\ntable.mes td.center {text-align: center;}\ntable.mes td.level {text-align: center; width: 90px}\n\n\ntd { vertical-align: middle; }\ntd.co   {background: #D6DDDD;}\ntd.code   {background: #E7E7E7;}\n\nb.title  {color: #00304b; font-size: large;}\n\ntt { font-family: monospace, 'courier new', courier; }\n\npre { font-family: monospace, 'courier new', courier; margin: 0px; width: auto; display: inline-block;\n\ttext-align: left; padding: 10px; white-space: pre-wrap; background: #f2f2f2; \n}\ndiv.pre { background: #f2f2f2; margin: 10px 0; width: 100%;}\n\npre span.key {color: #0030fF}\npre span.comment {color: #808080}\npre span.digit {color: #F04000}\npre span.string {color: #00808F}\npre span.bracket {color: #a06000}\n\n.thinbut{border: #c5d5f0 1px solid; border-radius: 3px; font-size: small; font-style: normal; color: #000000; background: #ffffff; padding-top: 0px; padding-bottom: 0px; margin-top: 0px; margin-bottom: 0px; }\n\nform {margin: 0; padding: 0;}\ntextarea { box-sizing: border-box; margin: 8px 0 0 0; padding: 0; width: 100%; font-size: 1em; padding: 4px; border-radius: 3px; font-family: verdana, arial, sans-serif; }\ninput { box-sizing: border-box; margin: 0; padding: 4px; font-family: verdana, arial, sans-serif; font-size: 1em; border-radius: 3px; max-width: 100%; }\n\nselect { font-size: 1em; height: 30px; margin-top: 5px;}\n\ninput[type=checkbox] { margin: 5px; }\n\ninput[type=submit], div.button, a.button {\n\tcolor: #505050;\t\n\tborder: 1px solid #e5e5e5; border-radius: 3px;\n\tpadding: 8px 16px;\n\ttext-align: center;\n\tcursor: pointer; \n\tfont-size: 14px;\n\tbackground-image: linear-gradient(#fcfcfc, #eeeeee);\n\tbackground-repeat: repeat-x;\n\tbox-shadow: inset 0 1px 0 rgba(255,255,255,0.15);\n\ttext-decoration: none;\n\twidth: auto;\n\tdisplay: inline-block;\n}\ninput[type=submit]:hover, div.button:hover, a.button:hover { background-image: linear-gradient(#f0f0f0, #e0e0e0); }\n\n\ninput[type=submit].blue { background-image: linear-gradient(#3994CA, #2984BA); color: #ffffff;\n\tborder: 1px solid #09649A; border-radius: 3px; \n\ttext-shadow: 0 1px 0 rgba(0, 0, 0, 0.5);\n\tbox-shadow: inset 0 1px 0 rgba(255,255,255,0.4);}\ninput[type=submit].blue:hover { background-image: linear-gradient(#49A4DA, #3994CA);}\n\n\ndiv.green, a.green { background-image: linear-gradient(#00bb00, #00aa00); color: #ffffff;\n\tborder: 1px solid #009900; border-radius: 3px; \n\ttext-shadow: 0 1px 0 rgba(0, 0, 0, 0.5);\n\tbox-shadow: inset 0 1px 0 rgba(255,255,255,0.4);}\ndiv.green:hover, a.green:hover { background-image: linear-gradient(#00cc00, #00aa00);}\n\ndiv.black { background-image: linear-gradient(#303030, #202020); color: #d0d0d0; border: 1px solid #303030;}\ndiv.black:hover { background-image: linear-gradient(#383838, #383838);}\n\ndiv.gray { background-image: linear-gradient(#808080, #707070); color: #d0d0d0; border: 1px solid #808080;}\ndiv.gray:hover { background-image: linear-gradient(#888888, #888888);}\n\n\nul {padding-left: 15px; margin: 2px}\nli {padding-left: 0px; padding-top: 3px; padding-right: 0px; padding-bottom: 5px; margin-left: 15px; margin-top: 0px; margin-right: 15px; margin-bottom: 0px;}\n\ndiv.seo, div.seo a:link, div.seo a:visited, div.seo a:active, div.seo a:hover {color: #808080; font-size: small; text-decoration: none}\n\n.unselectable { -webkit-user-select: none; -khtml-user-select: none; -moz-user-select: none; -ms-user-select: none; -o-user-select: none; user-select: none; }\n\n\ndiv.pages { padding: 0px 0 8px 0; }\ndiv.pages span { font-weight: bold; display: inline-block; min-width: 24px; text-align: center; border-radius: 2px; padding: 0 4px; }\ndiv.pages a { background: #f0f0f0; padding: 7px 4px 7px 4px; display: inline-block; margin: 2px 0 2px 0; \n\tborder-radius: 2px; min-width: 24px; text-align: center; }\ndiv.pages a:hover { background: #dadde2; text-decoration: none; }\n\n\ndiv.footer { background: #122632; min-height: 200px; padding-top: 20px; margin-top: 15px; color: #dfdfdf; \n\t--position: -webkit-sticky;\n\t--position: sticky; \n\t--top: 100vh;\n}\n\ndiv.footblock { display: inline-block; }\n\ndiv.footblock a { display: block; vertical-align: top; }\n\n#social {display: block;}\n#social a {\n\tdisplay: inline-block; text-decoration: none; width: 32px; height: 32px; margin-top: 8px; padding: 0;\n\tbackground-image: url('/_img/gamedev_social.svg');\n\tbackground-repeat: no-repeat;\n}\n\na.vk { background-position: 0px center; }\na.facebook { background-position: -32px center; }\na.facebook-group {  background-position: -64px center; }\na.twitter { background-position: -96px center; }\na.googleplus { background-position: -128px center; }\n\nhr.mes {    \n    margin-top: 0px;\n    margin-bottom: 5px;\n    border: 0;\n    border-top: 1px solid #eee;\n    height: 0;\n    box-sizing: content-box;\n    display: block;\n    overflow: hidden;\n    border-top-color: #aecccc;\n}\n\nhr.forum { border: 0; border-top: 1px solid #aecccc; max-width: 900px; }\n\ndiv.head { color: #808080; text-align: left; border-top: 1px solid #aecccc; padding-top: 2px; margin-top: 10px;}\ndiv.head div.pic {display: inline-block; min-width: 34px; padding: 0 0 0 4px; text-align: center; }\ndiv.head img {max-width: 40px; max-height: 34px; border-radius: 3px; vertical-align: -12%;}\ndiv.head ul {display: inline-block; padding: 0 0 0 5px; margin: 0; }\ndiv.head li {margin: 0; padding: 0; list-style: none;}\ndiv.head li.bold { font-size: 1.1em; }\ndiv.head li.bold a:visited {color: #0E66bA; }\ndiv.head div.right { text-align: right; padding-right: 5px; }\n\ndiv.hbutton { color: #c0c0c0; padding: 3px 10px; border: 1px solid #ffffff00; cursor: pointer; display: inline-block; }\ndiv.hbutton:hover, div.hbutton:focus { border: 1px solid #d0d0d0; border-radius: 4px; color: black; }\n\na.gray:link, a.gray:visited { color: #808080; text-decoration: none; }\na.gray:hover, a.gray:active { color: #BF3A00; text-decoration: underline; }\n\np.date { text-align: right; font-size: small; color: #c0c0c0; margin-bottom: 15px; cursor: default; }\nspan.date { font-size: small; color: #c0c0c0; }\n\ndiv.youtube_container { width: 100%; max-width: 900px; }\ndiv.youtube { position: relative; width: 100%; padding-top: 56.25%; box-sizing: border-box; background-color: #000000; }\ndiv.youtube iframe { position: absolute; left:0; top:0; }\ndiv.youtube img { position: absolute; left:0; top:0; right:0; bottom: 0; height: 100%; margin-left: auto; margin-right: auto; }\ndiv.youtube img.play { cursor: pointer; }\n\n#advert { margin: 20px 0; }\n\n\n/* less than 900px */\n@media only screen and (max-width: 900px) {\n\t#enter-pos { float: none; position:absolute; right: 0; top: 0; }\n}\n\n/* mobile plus */\n@media only screen and (max-width: 700px) {\n\t.hidesmall { display: none; }\n\tinput[type=submit], div.button { padding: 8px 10px; }\n\tspan.mobile { display: inline-block; }\n\t.not-mobile { display: none; }\n\tdiv.scroll-icons { display: block; overflow-y: hidden; overflow-x: auto; padding-right: 60px;}\n}\n\n/* mobile */\n@media only screen and (max-width: 330px) {\n\ta.tool { min-width: 32px; padding-left: 5px; }\n\tinput[type=submit], div.button { padding: 8px 10px;}\n}\n\n\n/* middle*/\n@media screen and (min-width: 480px) {\n\n\tdiv.path a:link { padding: 12px 10px 0 2px; }\n\tdiv.path span + span::before { content: \"/\"; padding-right: 8px; color: #606060; }\n}\n\n/* desktop */\n@media screen and (min-width: 800px) {\n}\n\n/* big-desktop */\n@media screen and (min-width: 1214px) {\n\t#menu { margin-left: -158px; left: auto;}\n}\n\n"
+          },
+          "redirectURL": "",
+          "headersSize": 0,
+          "bodySize": 4635
+        },
+        "cache": {
+          "afterRequest": null
+        },
+        "timings": {
+          "blocked": 0,
+          "dns": 0,
+          "ssl": 0,
+          "connect": 0,
+          "send": 0,
+          "wait": 0,
+          "receive": 0
+        },
+        "time": 0,
+        "_securityState": "secure"
+      },
+      {
+        "pageref": "page_1",
+        "startedDateTime": "2019-07-20T01:25:29.731+03:00",
+        "request": {
+          "bodySize": 0,
+          "method": "GET",
+          "url": "https://gamedev.ru/_js/skif.js?v=83",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "gamedev.ru"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0"
+            },
+            {
+              "name": "Accept",
+              "value": "*/*"
+            },
+            {
+              "name": "Accept-Language",
+              "value": "en-US,en;q=0.5"
+            },
+            {
+              "name": "Accept-Encoding",
+              "value": "gzip, deflate, br"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Referer",
+              "value": "https://gamedev.ru/users/?a=edit&id=82749"
+            },
+            {
+              "name": "Cookie",
+              "value": "SID=82749cthnrdiugkoxttbf"
+            }
+          ],
+          "cookies": [
+            {
+              "name": "SID",
+              "value": "82749cthnrdiugkoxttbf"
+            }
+          ],
+          "queryString": [
+            {
+              "name": "v",
+              "value": "83"
+            }
+          ],
+          "headersSize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Server",
+              "value": "nginx/Zenon version"
+            },
+            {
+              "name": "Date",
+              "value": "Fri, 19 Jul 2019 21:05:47 GMT"
+            },
+            {
+              "name": "Content-Type",
+              "value": "application/javascript"
+            },
+            {
+              "name": "Content-Length",
+              "value": "7071"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Last-Modified",
+              "value": "Mon, 11 Feb 2019 17:13:29 GMT"
+            },
+            {
+              "name": "Accept-Ranges",
+              "value": "bytes"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "max-age=216000, private"
+            },
+            {
+              "name": "Expires",
+              "value": "Sun, 18 Aug 2019 21:05:47 GMT"
+            },
+            {
+              "name": "Vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "Content-Encoding",
+              "value": "gzip"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "mimeType": "application/javascript",
+            "size": 0,
+            "text": "var prevScroll = 0;\n\nfunction Skif_Scroll() {\n\tvar scroll = Math.max(window.pageYOffset, document.documentElement.scrollTop, document.body.scrollTop);\n\n\tif (skif.showMenu) {\n\t\tprevScroll = scroll;\n\t\treturn;\n\t}\n\n\tif (skif.tool.prevOpacity == 0 && scroll - prevScroll > 0) {\n\t\tprevScroll = scroll;\n\t\treturn;\n\t}\n\n\tvar baseOpacity = 100;\n\n\tif (scroll < 200) {\n\t\tbaseOpacity = 100 - (scroll-100) * 0.1;\n\t}\n\telse if (scroll < 210) {\n\t\tbaseOpacity = 90;\t\n\t}\n\telse {\n\t\tbaseOpacity = 90 - (scroll-210) * 0.9;\n\t}\n\n\tbaseOpacity = Math.min(Math.max(baseOpacity, 0), 100);\n\n\tvar opacity = skif.tool.prevOpacity - scroll + prevScroll;\n\topacity = Math.min(Math.max(opacity, 0), 90);\n\n\tprevScroll = scroll;\n\n\tskif.tool.setOpacity(Math.max(baseOpacity, opacity));\n}\n\nfunction setCookie(cname, cvalue) {\n\tvar d = new Date();\n\td.setTime(d.getTime() + (10*365*24*60*60*1000));\n\tvar expires = \"expires=\"+ d.toUTCString();\n\tdocument.cookie = cname + \"=\" + cvalue + \";\" + expires + \";path=/\";\n}\n\nfunction Skif_TogleStyle() {\n\tskif.tool.setOpacity(100);\n\tvar cssId = 'darkCSS';\n\tvar head = document.getElementsByTagName('head')[0];\n\tvar link = document.getElementById(cssId);\n\tif (link) {\n\t\thead.removeChild(link);\n\t\tsetCookie('st', '0');\n\t}\n\telse {\n\t\tlink  = document.createElement('link');\n\t\tlink.id   = cssId;\n\t\tlink.rel  = 'stylesheet';\n\t\tlink.type = 'text/css';\n\t\tlink.href = skif.domain + '_css/dark.css?v=20';\n\t\tlink.media = 'all';\n\t\thead.appendChild(link);\n\t\tsetCookie('st', '1');\n\t}\n}\n\n\nfunction Skif_Modal(btn, isMouseOver) {\n\tvar modal = document.getElementById('modal'); // veil\n\tvar modal_pos = document.getElementById('modal_pos');\n\tvar close = document.getElementById('close');\n\n\tbtn.onclick = function() {\n\t\tskif.tool.setOpacity(100);\n\t\tmodal.style.display = \"block\";\n\t\tvar nick = document.getElementById('nick');\n\t\tif (nick)\n\t\t\tnick.focus();\n\n\t\tskif.escapeFunc = function() {\n\t\t\tmodal.style.display = \"none\";\n\t\t\tskif.escapeFunc = null;\n\t\t}\n\t}\n\n\t// if (isMouseOver) {\n\t// \tbtn.onmouseenter = function() {\n\t// \t\tskif.tool.setOpacity(100);\n\t// \t\tmodal.style.display = \"block\";\n\t// \t\tvar nick = document.getElementById('nick');\n\t// \t\tif (nick)\n\t// \t\t\tnick.focus();\n\n\t// \t\tskif.escapeFunc = function() {\n\t// \t\t\tmodal.style.display = \"none\";\n\t// \t\t\tskif.escapeFunc = null;\n\t// \t\t}\n\t// \t}\n\t// }\n\n\tif (close) {\n\t\tclose.onclick = function() {\n\t\t    modal.style.display = \"none\";\n\t\t}\n\t}\n\n\tskif.addEvent(modal, 'click', function(event) {\n\t\tif (event.target == modal || event.target == modal_pos) {\n\t\t\tmodal.style.display = \"none\";\n\t\t}\n\t});\n\n}\n\nfunction Skif_Menu(btn) {\n\tbtn.onclick = function(event) {\n\t\tskif.tool.setOpacity(100);\n\t\tvar menu = document.getElementById('menu');\n\t\t// if (menu) {\n\t\t// \tif (menu.style.display == 'block')\n\t\t// \t\tskif.showMenu = false;\n\t\t// \telse\n\t\t// \t\tskif.showMenu = true;\n\t\t// }\n\t\t// else {\n\t\t// \t// not dure if it called\n\t\t// \tskif.showMenu = !skif.showMenu;\n\t\t// }\n\t\tskif.showMenu = !skif.showMenu;\n\t\tskif.updateMenu();\n\t\tevent.preventDefault();\n\t}\n}\n\n\nfunction Skif_Email(auth,em) {\n\tem = em.substring(3,em.length-3);\n\tauth = auth.substring(4,auth.length-4);\n\tdocument.write('<a href=\"mailto:',em,'\" title=\"Çàùèù¸í îò ñïàì-ðîáîòîâ\">',auth,'</a>');\n}\n\nfunction check_submit(form) {\n\tfor (i=0; i<form.length; i++) {\n\t\tvar tempobj=form.elements[i]\n\t\tif(tempobj.type.toLowerCase()==\"submit\") {\n\t\t\ttempobj.disabled=true\n\t\t}\n\t}\n}\n\nfunction ins_tag(_tag_start, _tag_end) {\n\tdocument.postform.text.focus();\t\n\tvar area = document.postform.text;\n\tif (document.getSelection) {\n\t\tvar insertText = _tag_start + area.value.substring(area.selectionStart, area.selectionEnd) + _tag_end;\n\t\tvar curPos = area.selectionStart + insertText.length;\n\t\tif (area.selectionStart == area.selectionEnd) {\n\t\t\tcurPos -= _tag_end.length\n\t\t}\n\t\tarea.value=area.value.substring(0, area.selectionStart) + insertText + area.value.substring(area.selectionEnd, area.value.length);\n\t\tarea.selectionEnd = curPos;\n\t}\n\telse {\n\t\tdocument.selection.createRange().text=_tag_start + document.selection.createRange().text + _tag_end;;\n\t}\n\tdocument.postform.text.focus();\n}\n\n\nfunction get_sel_text() {\n\tvar area = document.postform.text;\n\tif (document.getSelection) {\n\t\treturn area.value.substring(area.selectionStart, area.selectionEnd);\n\t}\n\telse if (document.selection) {\n\t\treturn document.selection.createRange().text;\n\t}\n\treturn '';\n}\n\n\nfunction ins_incursor(_text) {\n\tdocument.postform.text.focus();\n\tvar area = document.postform.text;\n\tif ((area.selectionStart)||(area.selectionStart=='0')) {\n\t\tvar curPos = area.selectionStart + _text.length;\n\t\tarea.value=area.value.substring(0, area.selectionStart)+ _text + area.value.substring(area.selectionEnd, area.value.length);\n\t\tarea.selectionEnd = curPos;\n\t}\n\telse if (document.selection) {\n\t\tdocument.selection.createRange().text=_text;\n\t}\n\tdocument.postform.text.focus();\n}\n\n\nfunction delete_lastChar() {\n\tvar area = document.postform.text;\n\tif ((area.selectionStart)) {\n\t\tvar curPos = area.selectionStart - 1;\n\t\tarea.value = area.value.substring(0, curPos) + area.value.substring(area.selectionEnd, area.value.length);\n\t\tarea.selectionEnd = curPos;\n\t}\n}\n\n\nfunction pr(text) {\n\tdocument.postform.text.focus();\n\tdocument.postform.text.value += text;\n}\n\n\nfunction ins_quote(event) {\n\tvar maxlen = 80;\n\n\tevent.returnValue = false;\n\tif (event.preventDefault)\n\t\tevent.preventDefault();\n\n\tvar nick = '';\n\n\tvar eventTarget = event.target;\n\tif (!eventTarget)\n\t\teventTarget = event.srcElement;\n\n\tif (eventTarget) {\n\t\tnick = eventTarget.getAttribute('data-nick');\n\t\tif (nick == null)\n\t\t\treturn;\n\t}\n\n\tvar text = skif.getSelText();\n\tif (text == '' && skif.storedQuote != '')\n\t\ttext = skif.storedQuote;\n\n\tpr(\"[b]\"+nick+\"[/b]\\n\", 1);\n\n\tif (text == '')\n\t\treturn;\n\n\tvar s = text.split('\\n');\n\tvar len = s.length;\n\tvar i, j, begstr, str, cmts, si;\n\n\ttext = \"\";\n\n\tfor (i=0; i<len; i++) {\n\t\tti=(s[i].indexOf(\" >\")==0 ? 1 : 0);\n\t\ttend=s[i].length-1;\n\t\twhile (s[i].charAt(tend)==' ') tend--;\n\t\tif (ti || tend<s[i].length-1) s[i]=s[i].substring(ti,tend+1);\n\t\tcmts = \"\";\n\t\tif (((si = s[i].indexOf(' ')) == -1) || (s[i] == \"\")) {\n\t\t\ttext += (\"> \" + s[i] + \"\\n\");\n\t\t\tcontinue;\n\t\t}\n\t\tfor (j=0; j<s[i].length; j++) {\n\t\t\tif (s[i].charAt(j) == '>')\n\t\t\t\tcmts += \"> \";\n\t\t\telse\n\t\t\t\tbreak;\n\t\t}\n\t\tstr = cmts;\n\t\ts[i] = s[i].slice(cmts.length);\n\t\ts[i] += \" \";\n\t\twhile ((si = s[i].indexOf(' ')) != -1) {\n\t\t\tbegstr = s[i].slice(0, si);\n\t\t\ts[i] = s[i].slice(si+1);\n\t\t\tif (begstr.length + str.length >= maxlen) {\n\t\t\t\tif (str.slice(cmts.length) != '') {\n\t\t\t\t\tstr = str.slice(0, str.length-1);\n\t\t\t\t\ttext += (\"> \" + str + \"\\n\");\n\t\t\t\t}\n\t\t\t\tstr = cmts + begstr + \" \";\n\t\t\t\tcontinue;\n\t\t\t}\n\t\t\tif (begstr.length < maxlen)\n\t\t\t\tstr += (begstr + \" \");\n\t\t\telse\n\t\t\t\tstr = cmts + begstr + \" \";\n\t\t\tif (str.length >= maxlen) {\n\t\t\t\tstr = str.slice(0, str.length-1);\n\t\t\t\ttext += (\"> \" + str + \"\\n\");\n\t\t\t\tstr = cmts;\n\t\t\t}\n\t\t\tif (s[i].length == 0)\n\t\t\t\tbreak;\n\t\t}\n\t\tstr = str.slice(0, str.length-1);\n\t\tif (str.slice(cmts.length) != '') {\n\t\t\ttext += (\"> \" + str + \"\\n\");\n\t\t}\n\t}\n\tpr(text);\n}\n\nfunction p_nick(text) {\n\tpr(\"[b]\"+text+\"[/b]\\n\", 1);\n}\n\n\nfunction showSpoiler(spoilerId, show) {\n\tdocument.getElementById('spoilerHead' + spoilerId).style.display = show == 1 ? 'none' : 'block';\n\tdocument.getElementById('spoiler' + spoilerId).style.display = show == 1 ? 'block' : 'none';\n}\n\n\nfunction showImgSpoiler(spoilerId) {\n\tvar spoilerHead = document.getElementById('spoilerHead' + spoilerId);\n\tspoilerHead.parentNode.removeChild(spoilerHead);\n\tvar spoiler = document.getElementById('spoiler' + spoilerId);\n\tspoiler.setAttribute('src', spoiler.getAttribute('data-src'));\n\tspoiler.style.display = \"inline\";\n\tif (event.preventDefault)\n\t\tevent.preventDefault();\n}\n\n\nfunction Url(url) {\n\tthis.url = url;\n\n\tvar fragments = url.split('#');\n\tthis.fragment = fragments.length > 1 ? fragments[1] : '';\n\n\tvar queries = fragments[0].split('?'); \n\tthis.query = queries.length > 1 ? queries[1] : '';\n\n\tvar protocols = queries[0].split(':');\n\tthis.protocol = protocols.length > 1 ? protocols[0] : '';\n\n\tthis.address = queries[0].substring(this.protocol.length);\n\tif (this.address.length>3 && this.address.substr(0,3) == '://')\n\t\tthis.address = this.address.substr(3);\n\n\tthis.getDomain = function() {\n\t\tvar domains = this.address.split('/')[0].split('.');\n\t\tif (domains.length >= 2)\n\t\t\treturn domains[domains.length-2] + '.' + domains[domains.length-1];\n\t\treturn '';\n\t}\n\n\tthis.getParam = function(param) {\n\t\tvar params = this.query.split('&'); \n\t\tfor(var i=0; i<params.length; i++) {\n\t\t\tvar var_value = params[i].split('=');\n\t\t\tif (var_value[0] == param && var_value.length > 1)\n\t\t\t\treturn var_value[1];\n\t\t} \n\t  return ''; \n\t}\n\n\tthis.getPath = function() {\n\t\tvar paths = this.address.split('/');\n\t\tif (paths.length > 1)\n\t\t\treturn this.address.substring(paths[0].length + 1);\n\t\treturn '';\n\t}\n}\n\n\n\nfunction but_YouTube() {\n\tvar text = get_sel_text();\n\tvar url = new Url(text);\n\n\tvar v = url.getParam('v');\n\tvar t = url.getParam('t');\n\tvar time = '';\n\n\tif (t.length > 0) {\n\t\tvar times = t.split('s');\n\t\ttimes = times[0].split('m');\n\t\tif (times.length>1)\n\t\t\ttimes[0] = 60 * times[0] + 1 * times[1];\n\t\ttime = '#t=' + times[0];\n\t}\n\n\tif (url.getDomain() == 'youtube.com' && v != '') {\n\t\ttext = v;\n\t}\n\telse if (url.getDomain() == 'youtu.be') {\n\t\ttext = url.getPath();\n\t}\n\telse {\n\t\ttime = '';\n\t}\n\n\tins_incursor('[youtube=' + text + time + ']\\n');\n}\n\n\nvar lastMinusPressed = 0;\nfunction key_pressed(event) {\n\tif (!event.ctrlKey && !event.shiftKey) {\n\t\tvar keyID = (event.charCode) ? event.charCode : ((event.which) ? event.which : event.keyCode);\n\t\tif (keyID==189) { // '-'\n\t\t\tif (lastMinusPressed) {\n\t\t\t\tvar d = new Date();\n\t\t\t\tvar t = d.getTime();\n\t\t\t\tif (t - lastMinusPressed < 300) {\n\t\t\t\t\tlastMinusPressed = 0;\n\t\t\t\t\tdelete_lastChar();\n\t\t\t\t\tins_incursor('');\n\t\t\t\t\tevent.preventDefault();\n\t\t\t\t}\n\t\t\t\telse {\n\t\t\t\t\tlastMinusPressed = t;\n\t\t\t\t}\n\t\t\t}\n\t\t\telse {\n\t\t\t\tvar d = new Date(); \n\t\t\t\tlastMinusPressed = d.getTime();\n\t\t\t}\n\t\t}\n\t\telse if (lastMinusPressed) {\n\t\t\tlastMinusPressed = 0;\n\t\t}\n\n\t\tif (keyID==9) { // TAB\n\t\t\tins_incursor('\t');\n\t\t\tevent.preventDefault();\n\t\t}\n\t}\n\n\tif (!event.ctrlKey || !event.shiftKey)\n\t\treturn;\n\n\tif (event.keyCode==10 || event.keyCode==13) {\n\t\tdocument.postform.submit();\n\t}\n\tif (event.keyCode==2 || event.keyCode==98) {\n\t\tins_tag('[b]', '[/b]');\n\t}\n}\n\n\nfunction Core_OutAreaTags() {\n\tvar s = document.getElementById('areatags');\n\tif (s == null)\n\t\treturn;\n\n\ts.innerHTML = '<a target=\"_blank\" href=\"' + skif.domain  + 'files/?upload\">Çàãðóçêà èçîáðàæåíèé è ôàéëîâ</a>' +\n\t' | <a target=\"_blank\" href=\"http://skif.qrim.ru/docs/help\">Ñïðàâêà ïî òåãàì</a><br />' +\n\t'<a href=\"javascript:ins_tag(\\'[b]\\',\\'[/b]\\')\" title=\"[b][/b] Æèðíûé øðèôò (Ctrl+Shift+B)\">[b]</a> '+\n\t'<a href=\"javascript:ins_tag(\\'[i]\\',\\'[/i]\\')\" title=\"[i][/i] Íàêëîííûé øðèôò\">[i]</a> ' +\n\t'<a href=\"javascript:ins_tag(\\'[s]\\',\\'[/s]\\')\" title=\"[s][/s] Çà÷¸ðêíóòûé òåêñò\">[s]</a> ' +\n\t'<a href=\"javascript:ins_tag(\\'[code]\\n\\',\\'\\n[/code]\\n\\')\" title=\"[code] Êîä: Ìîíîøèðèííûé øðèôò\">[code]</a> ' +\n\t'<a href=\"javascript:ins_tag(\\'[code=cpp]\\n\\',\\'\\n[/code]\\n\\')\" title=\"[code=cpp] Êîä: ñ ïîäñâåòêîé äëÿ C++\">[c++]</a> ' +\n\t'<a href=\"javascript:ins_tag(\\'[code=pas]\\n\\',\\'\\n[/code]\\n\\')\" title=\"[code=pas] Êîä: ñ ïîäñâåòêîé äëÿ Pascal\">[pas]</a> ' +\n\t'<a href=\"javascript:ins_tag(\\'[quote]\\n\\',\\'\\n[/quote]\\n\\')\" title=\"[quote] Öèòàòà: Âûäåëåííûé áëîê òåêñòà\">[quote]</a> ' +\n\t'<a href=\"javascript:ins_tag(\\'[spoiler]\\n\\',\\'\\n[/spoiler]\\n\\')\" title=\"[spoiler] Ñïîéëåð: ñïðÿòàòü òåêñò\">[spoiler]</a> ' +\n\t'<a href=\"javascript:ins_tag(\\'[offtop]\\n\\',\\'\\n[/offtop]\\n\\')\" title=\"[offtop] Òóñêëûé òåêñò ñ óìåíüøåííûì øðèôòîì\">[offtop]</a> ' +\n\t'<a href=\"javascript:ins_tag(\\'[url=\\',\\'][/url]\\')\" title=\"[url]: Ññûëêà\">[url]</a> ' +\n\t'<a href=\"javascript:ins_tag(\\'[img=\\',\\']\\')\" title=\"[img]: Âíåøíåå èçîáðàæåíèå. Ìîæíî âûäåëèòü URL íà èçîáðàæåíèå\">[img]</a> ' +\n\t'<a href=\"javascript:but_YouTube()\" title=\"YouTube: Ìîæíî âûäåëèòü URL èëè êîä èç URL íà âèäåî\">[youtube]</a>';\n}\n\n\nfunction Core_AddForumQuotes() {\n\tvar elems = document.getElementsByClassName('fquote');\n\tfor (var i = 0; i < elems.length; i++ ) {\n\t\tvar el = elems[i];\n\t\tskif.addEvent(el, 'click', ins_quote, false);\n\t\tif (skif.isTouch) {\n\t\t\tel.addEventListener(\"touchstart\", skif.storeQuote, true);\n\t\t}\n\t}\n}\n\nfunction Core_OnResize() {\n\t//var mh = document.getElementById('main_body').offsetHeight;\n\t//var rh = document.getElementById('right').offsetHeight;\n\t//document.getElementById('main_add').style.paddingBottom = mh < rh ? (rh - mh) + 'px' : '0px';\n}\n\n\nfunction Core_GetXML(url) {\n\tvar xml;\n\tif (window.XMLHttpRequest) {\n\t\txml = new window.XMLHttpRequest();\n\t\txml.open(\"GET\", url, false);\n\t\txml.setRequestHeader(\"Cache-Control\", \"no-cache\");\n\t\txml.send();\n\t\treturn xml.responseXML;\n\t}\n\telse if (window.ActiveXObject) {\n\t\txml = new ActiveXObject(\"Microsoft.XMLDOM\");\n\t\txml.async = false;\n\t\txml.load(url);\n\t\treturn xml;\n\t}\n\telse {\n\t\treturn null;\n\t}\n}\n\n\nfunction Core_GetAttribs(xml, item) {\n\titems = xml.getElementsByTagName(item);\n\tif (!items)\n\t\treturn null;\n\titem = items[0];\n\tif (!item)\n\t\treturn null;\n\tvar ret = new Object();\n\tfor (var i = 0; i < item.attributes.length; i++)\n\t\tret[item.attributes[i].name] = item.attributes[i].value;\n\treturn ret;\n}\n\n\nvar Buttons = {\n\tadd: function (el, callback) {\n\t\tel.onclick = callback;\n\t}\n}\n\n\nvar Scripts = {\n\tfiles: [],\n\n\tinclude: function(url, callback) {\n\t\tvar head = document.getElementsByTagName('head')[0];\n\t\tvar script = document.createElement('script');\n\t\tscript.type = 'text/javascript';\n\t\tscript.src = url;\n\t\tscript.onreadystatechange = function () {\n\t\t\tif (callback!=undefined && this.readyState == 'complete')\n\t\t\t\tcallback();\n\t\t}\n\t\tscript.onload = callback;\n\t\thead.appendChild(script);\n\t\treturn script;\n\t},\n\n\tload: function (file, fn) {\n\t\tvar isCalled = false;\n\t\tthis.callback = function () {\n\t\t\tif (isCalled)\n\t\t\t\treturn;\n\t\t\tisCalled = true;\n\t\t\tScripts.files[file] = true;\n\t\t\tfn();\n\t\t}\n\n\t\tif (this.files[file] != true) {\n\t\t\tthis.include(skif.domain + file, this.callback);\n\t\t\tconsole.log('load script: ', file);\n\t\t}\n\t\telse {\n\t\t\tfn();\n\t\t}\n\t}\n};\n\n\nfunction Core_AddSound(id, file) {\n\tScripts.load('_js/swfobject.js', function () {\n\t\tvar sx = new SWFObject('/_js/mediaplayer.swf', 'apv', '200', '14', '7');\n\t\tsx.addVariable('width', '200');\n\t\tsx.addVariable('height', '17');\n\t\tsx.addVariable('file', skif.domain + 'files/sounds/' + file);\n\t\tsx.write(id);\n\t});\n}\n\n\nvar Search = {\n\tvisible: false,\n\tinitialized: false,\n\n\tsubmit: function (form) {\n\t\twindow.location.href = 'https://google.com/search?q=' + encodeURIComponent('site:' + document.domain + ' ' + form.q.value);\n\t\treturn false;\n\t},\n\n\tinit: function () {\n\t\tvar e = document.getElementById('search_toggle');\n\t\tif (e != null) {\n\t\t\tthis.initButton(e);\n\t\t}\n\t},\n\n\tshow: function(isShow) {\n\t\tvar search = document.getElementById('search');\n\t\tif (search != null) {\n\t\t\tsearch.style.display = isShow ? \"block\" : \"none\";\n\t\t}\n\t\tSearch.visible = isShow;\n\t},\n\n\tinitButton: function(btn) {\n\t\tbtn.onclick = function(event) {\n\t\t\tSearch.visible = !Search.visible;\n\t\t\tvar search = document.getElementById('search');\n\t\t\tif (search != null) {\n\t\t\t\tif (!Search.initialized) {\n\t\t\t\t\tsearch.innerHTML = '<form method=\"post\" onSubmit=\"return Search.submit(this);\">' +\n\t\t\t\t\t\t'<input style=\"\" class=\"blue\" type=\"submit\" value=\"Íàéòè\" />' +\n\t\t\t\t\t\t'<div><input style=\"float: left;\" id=\"search_input\" type=\"text\" name=\"q\" maxlength=\"255\" /></div>' +\n\t\t\t\t\t\t'</form>';\n\t\t\t\t\tSearch.initialized = true;\n\t\t\t\t}\n\t\t\t\tSearch.show(Search.visible);\n\t\t\t}\n\t\t\tif (Search.visible) {\n\t\t\t\tvar input = document.getElementById('search_input');\n\t\t\t\tif (input != null) {\n\t\t\t\t\tinput.focus();\n\t\t\t\t}\n\t\t\t}\n\t\t\tskif.tool.setOpacity(100);\n\t\t\tevent.preventDefault();\n\t\t}\n\t}\n};\n\n\nvar skif = {\n\tdomain: '/',\n\tisTouch: false,\n\tveil: null,\n\tshowMenu: false,\n\tescapeFunc: null,\n\ttool: null,\n\t//resizeElements: [],\n\n\taddEvent: function (obj, type, fn, useCapture) {\n\t\tif (obj.addEventListener) {\n\t\t\tobj.addEventListener(type, fn, useCapture);\n\t\t}\n\t\telse if (obj.attachEvent) {\n\t\t\treturn obj.attachEvent('on' + type, fn);\n\t\t}\n\t},\n\n\tupdateMenu: function() {\n\t\tvar menu = document.getElementById('menu');\n\t\tmenu.style.display = skif.showMenu ? \"block\" : \"none\";\n\t},\n\n\tgetSelText: function() {\n\t\tif (window.getSelection)\n\t\t\treturn window.getSelection().toString();\n\t\tif (document.getSelection)\n\t\t\treturn document.getSelection().toString();\n\t\treturn document.selection.createRange().text;\n\t},\n\n\tstoreQuote: function(event) {\n\t\tskif.storedQuote = skif.getSelText();\n\t},\n\n\tHTMLfn: function(el, fn) {\n\t\tvar e = document.getElementById(el);\n\t\tif (e != null && fn != null)\n\t\t\te.innerHTML = fn();\n\t},\n\n\tshowVeil: function(clickFunc) {\n\t\tif (!skif.veil) {\n\t\t\tvar body = document.getElementsByTagName('body')[0];\n\t\t\t//skif.veil = document.getElementById('veil');\n\t\t\tskif.veil = document.createElement('div');\n\t\t\tskif.veil.id = 'veil';\n\t\t\tbody.appendChild(skif.veil);\n\t\t\tskif.veil.className = 'veil';\n\t\t}\n\t\tskif.veil.style.display = 'block';\n\t\tskif.veil.onclick = clickFunc;\n\t\tskif.escapeFunc = clickFunc;\n\t},\n\n\tdropdown: function(id) {\n\t\tvar dropdown = document.getElementById(id);\n\t\tdropdown.style.display = 'block';\n\n\t\tskif.showVeil(function() {\n\t\t\tdropdown.style.display = 'none';\n\t\t\tveil.style.display = 'none';\n\t\t\tskif.escapeFunc = null;\n\t\t});\n\t},\n\n\trun: function() {\n\t\tskif.domain = location.protocol + '//' + document.domain + '/';\n\t\tskif.isTouch = !!('ontouchstart' in document);\n\n\t\t//skif.addEvent(window, 'load', skif.load);\n\t\tskif.addEvent(document, 'keydown', skif.keydown);\n\n\t\tvar menu = document.getElementById('menu');\n\t\tif (menu != null) {\n\t\t\tvar visible = parseInt(menu.getAttribute('data-visible'));\n\t\t\tif (visible > 0 && visible <= document.body.clientWidth) {\n\t\t\t\tskif.showMenu = true;\n\t\t\t}\n\t\t}\n\n\t\twindow.onscroll = Skif_Scroll;\n\t\tvar e = document.getElementById('menu_toggle');\n\t\tif (e != null) {\n\t\t\tSkif_Menu(e);\n\t\t}\n\n\t\te = document.getElementById('login');\n\t\tif (e != null)\n\t\t\te.innerHTML =\n\t\t\t'  <span id=\"close\">&times;</span>' +\n\t\t\t'  <h3>Âõîä â ñèñòåìó</h3>' +\n\t\t\t'  <form name=\"postform\" method=\"POST\" action=\"' + skif.domain + 'users/?login\" onSubmit=\"return verifySubmitFields(this)\">' +\n\t\t\t'   <p><b>Íèê:</b> <br /><input name=\"nick\" id=\"nick\" value=\"\" size=\"24\" maxlength=\"20\" />' +\n\t\t\t'   <p><b>Ïàðîëü:</b> <br /><input type=password name=\"pass\" value=\"\" size=\"24\" maxlength=\"24\" />' +\n\t\t\t'   <input type=\"hidden\" name=\"action\" value=\"autopost\" />' +\n\t\t\t'   <p class=\"r\"><input id=\"_gdr_post\" name=\"_gdr_post\" type=\"submit\" class=\"blue\" value=\"Âîéòè\" /></p>' +\n\t\t\t'  </form>' +\n\t\t\t'  <p><a href=\"' + skif.domain + 'users/?regist\">Çàðåãèñòðèðîâàòüñÿ</a></p>' +\n\t\t\t'  <p><a href=\"' + skif.domain + 'users/?setuppass\">Çàáûëè ïàðîëü?</a></p>';\n\n\t\te = document.getElementById('enter');\n\t\tif (e != null) {\n\t\t\tSkif_Modal(e, false);\n\t\t}\n\t\telse {\n\t\t\te = document.getElementById('profile');\n\t\t\tif (e != null) {\n\t\t\t\tSkif_Modal(e, true);\n\t\t\t}\n\t\t}\n\n\t\te = document.getElementById('style');\n\t\tif (e != null) {\n\t\t\tskif.addEvent(e, 'click', Skif_TogleStyle);\n\t\t}\n\n\t\tSearch.init();\n\n\t\te = document.getElementById('ad_content');\n\t\tif (e != null)\n\t\t\te.style.display = \"block\";\n\n\t\tCore_AddForumQuotes();\n\t\tCore_OutAreaTags();\n\n\t\t// //if (skif.isTouch) {\n\t\t// \tdocument.addEventListener(\"selectionchange\", skif.selChanged, false);\n\t\t// //}\n\n\t\tskif.HTMLfn('social', skif.site.social);\n\t\t//skif.HTMLfn('counters', skif.site.counters);\n\n\t\t// e = document.getElementById('right');\n\t\t// if (e != null && e.offsetWidth > 0)\n\t\t// {\n\t\t// \tskif.addEvent(window, 'resize', Core_OnResize, true);\n\t\t// \tCore_OnResize();\n\t\t// }\n\t},\n\n\n\tload: function() {\n\t},\n\n\t// selChanged: function() {\n\t// \ts = window.getSelection();\n\n\t// \tif (window.getSelection().toString() == '')\n\t// \t\treturn;\n\n\t// \toRange = s.getRangeAt(0); //get the text range\n\t// \toRect = oRange.getBoundingClientRect();\n\t// \tel = document.createElement('div');\n\t// \tel.style.position = \"absolute\";\n\t// \tel.style.top = '' + (window.scrollY + oRect.bottom + 5) + 'px';\n\t// \tel.width = '100px';\n\t// \tel.height = '20px';\n\t// \tel.innerHTML = 'Öèòèðîâàòü';\n\t// \tdocument.body.appendChild(el);\n\t// },\n\n\tscrollToHash: function(hash) {\n\t\twindow.location.hash = hash;\n\t},\n\n\n\tloadYoutubeImage: function(event) {\n\t\tvar eventTarget = event.target;\n\t\tif (!eventTarget)\n\t\t\teventTarget = event.srcElement;\n\t\tif (!eventTarget)\n\t\t\treturn;\n\n\t\tvar vidid = eventTarget.getAttribute('data-value');\n\t\tif (eventTarget.naturalWidth < 1080) {\n\t\t\teventTarget.src=\"https://img.youtube.com/vi/\" + vidid + \"/hqdefault.jpg\";\n\t\t}\n\t\teventTarget.onload = null;\n\t},\n\n\n\tinsertYoutube: function(id) {\n\t\tvar e = document.getElementById('youtube' + id);\n\t\tif (e == null)\n\t\t\treturn;\n\t\tvar vidid = e.getAttribute('data-value');\n\t\tvar addSign = vidid.split('?').length == 1 ? '?' : '&';\n\t\te.innerHTML = '<iframe width=\"' + e.clientWidth + '\" height=\"' + e.clientHeight + \n\t\t\t'\" src=\"//www.youtube.com/embed/' + vidid + addSign + 'autoplay=1&rel=0\" frameborder=\"0\" ' +\n\t\t\t'allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>';\n\t},\n\n\n\tkeydown: function(evt) {\n\t\tevt = evt || window.event;\n\t\tif (evt.key === 'Escape') {\n\t\t\tif (skif.escapeFunc) {\n\t\t\t\tskif.escapeFunc();\n\t\t\t}\n\t\t\telse if(Search.visible) {\n\t\t\t\tSearch.show(false);\n\t\t\t}\n\t\t}\t\n\t},\n\n\t// private\n\tstoredQuote: '',\n\tsite: null\n};\n\n\nskif.tool = {\n\tprevOpacity: 100,\n\tisDisplay: true,\n\n\tsetOpacity: function(opacity) {\n\t\tskif.tool.prevOpacity = opacity;\n\t\tvar navEl = document.getElementById('tool');\n\t\tnavEl.style.opacity = opacity/100;\n\n\t\tif (skif.tool.isDisplay && opacity == 0) {\n\t\t\tnavEl.style.display = \"none\";\n\t\t\tskif.tool.isDisplay = false;\n\t\t\t//if (skif.showMenu) {\n\t\t\t//\tskif.showMenu = false;\n\t\t\t//\tskif.updateMenu();\n\t\t\t//}\n\t\t}\n\t\telse if (!skif.tool.isDisplay && opacity != 0) {\n\t\t\tnavEl.style.display = \"block\";\n\t\t\tskif.tool.isDisplay = true;\t\n\t\t}\n\t}\n};\n\n\nskif.site = {\n\tname: 'GameDev.ru',\n\n\tsocial: function() {\n\t\treturn '<a class=\"vk\" href=\"https://vk.com/gamedev_ru\" target=\"_blank\" title=\"vk.com\"></a> ' +\n\t\t\t'<a class=\"facebook\" href=\"https://www.facebook.com/gamedevru\" target=\"_blank\" title=\"facebook page\"></a> ' +\n\t\t\t'<a class=\"facebook-group\" href=\"https://www.facebook.com/groups/gamedevru/\" target=\"_blank\" title=\"facebook group\"></a> ' +\n\t\t\t'<a class=\"twitter\" href=\"https://twitter.com/ru_gamedev\" target=\"_blank\" title=\"twitter\"></a> ' +\n\t\t\t'<a class=\"googleplus\" href=\"https://plus.google.com/+GamedevRus/\" target=\"_blank\"  title=\"Google Plus\"></a> ';\n\t},\n\n\tcounters: function() {\n\t\treturn '';\n\t\t/*\n\t\tvar a = ';r=' + escape(document.referrer)\n\t\ts = screen;\n\t\ta += ';s=' + s.width + '*' + s.height;\n\t\ta += ';d=' + (s.colorDepth ? s.colorDepth : s.pixelDepth);\n\n\t\treturn '<a href=\"http://top.mail.ru/jump?from=261892\"><img src=\"http://top.list.ru/counter?id=261892;t=56;' + a + \n\t\t\t';rand=' + Math.random() + '\" alt=\"Ðåéòèíã@Mail.ru\"' + ' border=\"0\" height=\"31\" width=\"88\" /><\\/a>';\n\t\t\t*/\n\t}\n};\n"
+          },
+          "redirectURL": "",
+          "headersSize": 0,
+          "bodySize": 62060
+        },
+        "cache": {
+          "afterRequest": null
+        },
+        "timings": {
+          "blocked": 0,
+          "dns": 0,
+          "ssl": 0,
+          "connect": 0,
+          "send": 0,
+          "wait": 0,
+          "receive": 0
+        },
+        "time": 0,
+        "_securityState": "secure"
+      },
+      {
+        "pageref": "page_1",
+        "startedDateTime": "2019-07-20T01:25:29.829+03:00",
+        "request": {
+          "bodySize": 0,
+          "method": "GET",
+          "url": "https://gamedev.ru/apple-touch-icon-196x196.png",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "gamedev.ru"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0"
+            },
+            {
+              "name": "Accept",
+              "value": "image/webp,*/*"
+            },
+            {
+              "name": "Accept-Language",
+              "value": "en-US,en;q=0.5"
+            },
+            {
+              "name": "Accept-Encoding",
+              "value": "gzip, deflate, br"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Cookie",
+              "value": "SID=82749cthnrdiugkoxttbf"
+            }
+          ],
+          "cookies": [
+            {
+              "name": "SID",
+              "value": "82749cthnrdiugkoxttbf"
+            }
+          ],
+          "queryString": [],
+          "headersSize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Server",
+              "value": "nginx/Zenon version"
+            },
+            {
+              "name": "Date",
+              "value": "Fri, 19 Jul 2019 21:06:22 GMT"
+            },
+            {
+              "name": "Content-Type",
+              "value": "image/png"
+            },
+            {
+              "name": "Content-Length",
+              "value": "8954"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Last-Modified",
+              "value": "Sun, 06 Jan 2019 07:53:31 GMT"
+            },
+            {
+              "name": "Accept-Ranges",
+              "value": "bytes"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "max-age=2592000, public"
+            },
+            {
+              "name": "Expires",
+              "value": "Sat, 18 Jul 2020 21:06:22 GMT"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "mimeType": "image/png",
+            "size": 8954,
+            "encoding": "base64",
+            "text": "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"
+          },
+          "redirectURL": "",
+          "headersSize": 0,
+          "bodySize": 8954
+        },
+        "cache": {
+          "afterRequest": null
+        },
+        "timings": {
+          "blocked": 0,
+          "dns": 0,
+          "ssl": 0,
+          "connect": 0,
+          "send": 0,
+          "wait": 0,
+          "receive": 0
+        },
+        "time": 0,
+        "_securityState": "secure"
+      },
+      {
+        "pageref": "page_1",
+        "startedDateTime": "2019-07-20T01:25:29.831+03:00",
+        "request": {
+          "bodySize": 0,
+          "method": "GET",
+          "url": "https://gamedev.ru/favicon.ico",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Host",
+              "value": "gamedev.ru"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0"
+            },
+            {
+              "name": "Accept",
+              "value": "image/webp,*/*"
+            },
+            {
+              "name": "Accept-Language",
+              "value": "en-US,en;q=0.5"
+            },
+            {
+              "name": "Accept-Encoding",
+              "value": "gzip, deflate, br"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Cookie",
+              "value": "SID=82749cthnrdiugkoxttbf"
+            }
+          ],
+          "cookies": [
+            {
+              "name": "SID",
+              "value": "82749cthnrdiugkoxttbf"
+            }
+          ],
+          "queryString": [],
+          "headersSize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Server",
+              "value": "nginx/Zenon version"
+            },
+            {
+              "name": "Date",
+              "value": "Fri, 19 Jul 2019 21:05:48 GMT"
+            },
+            {
+              "name": "Content-Type",
+              "value": "image/x-icon"
+            },
+            {
+              "name": "Content-Length",
+              "value": "4286"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Last-Modified",
+              "value": "Mon, 12 Dec 2016 06:43:18 GMT"
+            },
+            {
+              "name": "Accept-Ranges",
+              "value": "bytes"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "max-age=2592000, public"
+            },
+            {
+              "name": "Expires",
+              "value": "Sat, 18 Jul 2020 21:05:48 GMT"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "mimeType": "image/x-icon",
+            "size": 4286,
+            "encoding": "base64",
+            "text": "AAABAAEAICAAAAEAIACoEAAAFgAAACgAAAAgAAAAQAAAAAEAIAAAAAAAABAAANcNAADXDQAAAAAAAAAAAADa1Mv/dmE+/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RMJP93Yj//2tTL/3diP/9kTCT/ZFAu/2Rxif9kiMf/ZGx9/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RMJP93Yj//ZEwk/2RQL/9kg7n/ZIzS/2SM0v9kjNL/ZGp2/2RMJP9kTCT/ZEwk/2RMJP97aUr/nJaF/7zAu//K09P/1ePn/9bi6P/M1tf/ub23/5yXhf90Yj//ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZHSO/2SM0v9kjNL/ZIzS/2SM0v9kjNL/ZGdv/2RMJP9/b1P/vMC7/9jm7P/Y5uz/2Obs/9jm7P/Y5uz/2Obs/9jm7P/Y5uz/2Obs/9fl6v+ztKz/dGI//2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kiMf/ZIzS/2SM0v9kjNL/ZIzS/2SM0v9mjNL/oqqv/9fl6//Y5uz/2Obs/9jm7P/Y5uz/2Obs/9jm7P/Y5uz/2Obs/9jm7P/Y5uz/2Obs/9jm7P/U4eX/lIx3/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2Rse/9kjNL/ZIzS/2SM0v9kjNL/Zo3T/7XL5P/Y5uz/2Obs/9jm7P/Y5uz/2Obs/9jm7P/Y5uz/2Obs/9jm7P/Y5uz/2Obs/9jm7P/Y5uz/2Obs/9jm7P/Y5uz/p6WY/2VNJv9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2Rpcv9ki9H/ZIzS/2SM0v+kvuD/2Obs/9jm7P/Y5uz/2Obs/9jm7P/N19n/nZiG/3tpSv9oUSv/ZlAo/3JfPf+MgGn/s7Sr/9fj6f/Y5uz/2Obs/9jm7P/Y5uz/sLGn/2ZQKP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2Rob/9ki9H/gqPY/9jm7P/Y5uz/2Obs/9jm7P/Y5uz/q7Kx/2tWMP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kTCT/dGI//77Dvv/Y5uz/2Obs/9jm7P/Y5uz/r7Cm/2VNJv9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RkZv+90eX/2Obs/9jm7P/Y5uz/2Obs/5243/9kicr/ZFtM/2RMJP9kTCT/ZEwk/2RMJP9kTCT/op6P/6WilP9lTSX/ZU8n/6Sik//Y5uz/2Obs/9jm7P/Y5uz/qqmd/2VNJf9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kTCT/fGtN/9jm7P/Y5uz/2Obs/9jm7P+zyeT/ZYzS/2SM0v9kiMf/ZFhF/2RMJP9kTCT/ZEwk/6Kej//Y5uz/2Obs/62sof9oUSr/ZEwk/52Yhv/Y5uz/2Obs/9jm7P/Y5uz/pKKT/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RMJP+dmIb/2Obs/9jm7P/Y5uz/1eTr/3KX1f9kjNL/ZIzS/2SM0v9kiMX/ZFdE/2RMJP9kTCT/mpSB/9jm7P/Y5uz/2Obs/8HJxv96aEj/op6P/9jm7P/Y5uz/2Obs/9jm7P+alIH/ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/7zAu//Y5uz/2Obs/9jm7P+uxeD/ZIzS/2SM0v9kjNL/ZIzS/2SM0v9khsH/ZFY+/2RMJP9kTCT/mpSB/9jm7P/Y5uz/2Obs/9jm7P/Y5uz/2Obs/9jm7P/Y5uz/mpSB/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kTCT/yNDR/9jm7P/Y5uz/2Obs/4yLhv9kicv/ZIzS/2SM0v9kjNL/ZIzS/2SM0v9khsH/ZFU8/2RMJP9kTCT/npmI/9jm7P/Y5uz/2Obs/9jm7P/Y5uz/2Obs/56ZiP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RMJP/U4OT/2Obs/9jm7P/Y5uz/dGE+/2RaS/9kiMf/ZIzS/2SM0v9kjNL/ZIzS/2SM0v9khLz/ZFM3/2RMJP9kTCT/mpSB/9jm7P/Y5uz/2Obs/9jm7P+alIH/ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/9Pf5P/Y5uz/2Obs/9jm7P9pUyz/ZEwk/2RZSf9kh8b/ZIzS/2SM0v9kjNL/ZIzS/2SM0v9kgrf/ZFEz/2RMJP9kTCT/mpSB/9jm7P/Y5uz/mpSB/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kTCT/yNHS/9jm7P/Y5uz/2Obs/2lTLP9kTCT/ZEwk/2RYQ/9khsL/ZIzS/2SM0v9kjNL/ZIzS/2SM0v9kgbX/ZFEx/2RMJP9kTCT/mpSB/5qUgf9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RMJP+9wrz/2Obs/9jm7P/Y5uz/cl89/2RMJP9kTCT/ZEwk/2RVPf9khb3/ZIzS/2SM0v9kjNL/ZIzS/2SM0v9kf6//ZFAu/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/6Gejv/Y5uz/2Obs/9jm7P9/b1P/ZEwk/2RMJP9kTCT/ZEwk/2RVO/9khL3/ZIzS/2SM0v9kjNL/ZIzS/2SM0v9kfan/ZE8r/2RMJP9kTCT/ZEwk/3RhPv+2uLH/npmI/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kTCT/hHZb/9jm7P/Y5uz/2Obs/5mTf/9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RTNv9kgrf/ZIzS/2SM0v9kjNL/ZIzS/2SM0v9kfKb/ZE4q/3trP/+npnX/1OHm/9jm7P/Y5uz/npmI/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RMJP9nTyn/zdfZ/9jm7P/Y5uz/uLy1/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RTNf9kgrX/ZIzS/2SM0v9kjNL/ZIzS/2SM0v+Lnrn/qqpw/6qqcP/Y5uz/2Obs/9jm7P/Y5uz/op6P/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RMJP+gm4v/2Obs/9jm7P/V4+f/b1w3/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RQMf9kf6//ZIzS/2SM0v9kjNL/nrnf/9jm7P+qqnD/qqpw/9jm7P/Y5uz/2Obs/9jm7P+7v7r/ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/29bN//S3uL/2Obs/9jm7P+hnY3/ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RQLv9kfan/ZIzS/6K84P/Y5uz/2Obs/6qqcP+qqnD/2Obs/9jm7P/Y5uz/2Obs/39vU/9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/5qUgf/Y5uz/2Obs/9Dd3/9uWjb/ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RPLP+HnLv/2Obs/9jm7P/Y5uz/qqpw/6qqcP/Y5uz/2Obs/9jm7P+7v7r/ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZU8n/8LIxf/Y5uz/2Obs/7Gyqf9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kTCT/eWg9/6qqcP+qqnD/qqpw/6qqcP+qqnD/qqpw/6qqcP+qqnD/qqpw/6Gea/9lTST/ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kTCT/d2VE/9Le4v/Y5uz/2Obs/4l+Zf9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RMJP+opnX/qqpw/6qqcP+qqnD/qqpw/6qqcP+qqnD/qqpw/6qqcP+qqnD/eGY5/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kTCT/hXhd/9fj6f/Y5uz/0t7i/3RiQf9kTCT/ZEwk/2RMJP9kTCT/dGE+/9Th5v/Y5uz/2Obs/9jm7P/Y5uz/qqpw/6qqcP/Y5uz/nrnf/2SM0v9kb4P/ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kTCT/kop0/9fl6//Y5uz/w8vH/2pULv9kTCT/ZEwk/2RMJP+4u7T/2Obs/9jm7P/Y5uz/2Obs/9jm7P+qqnD/qqpw/5q23v9kjNL/ZIzS/2SAsf9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kTCT/j4Zv/9bk6f/Y5uz/ub63/2dPKf9kTCT/ZEwk/5qUgf/Y5uz/2Obs/9jm7P/Y5uz/2Obs/6qqcP+qqnD/ZIzS/2SM0v9kis3/ZFpK/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kTCT/jIFp/9Xi5//Y5uz/rKyg/2VNJf9kTCT/ZEwk/56ZiP/Y5uz/2Obs/9jm7P+9w73/nppp/3NhNP9ka3j/ZICx/2RaTf9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kTCT/fGtN/8nS0v/Y5uz/q6uf/2VNJf9kTCT/ZEwk/5qUgf+3urL/fW5P/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RMJP93Yj//ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kTCT/alQu/6ysoP/Y5uz/paKU/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kTCT/eGNA/9rUy/96ZkT/ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/2RMJP9kTCT/ZEwk/3pmRP/a1Mv/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA="
+          },
+          "redirectURL": "",
+          "headersSize": 0,
+          "bodySize": 4286
+        },
+        "cache": {
+          "afterRequest": null
+        },
+        "timings": {
+          "blocked": 0,
+          "dns": 0,
+          "ssl": 0,
+          "connect": 0,
+          "send": 0,
+          "wait": 0,
+          "receive": 0
+        },
+        "time": 0,
+        "_securityState": "secure"
+      }
+    ]
+  }
+}
