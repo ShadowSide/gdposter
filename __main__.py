@@ -2,7 +2,7 @@
 import confidential as c 
 import posterapp 
 
-BOT_TOKEN = '825739067:AAHoBF8ti8FqcCfmtTjlyuPY9Idvt9NS4EA'
+BOT_TOKEN = 'bot_token_here'
 
 app = posterapp.PosterApp(BOT_TOKEN, c.ProxySettings()) 
 
