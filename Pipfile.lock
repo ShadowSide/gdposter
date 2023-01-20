@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "31194a4cf5ae2ea4837c56ca3c9ba22b3c7d117bcbaa9135d92cb0f2695d9960"
+            "sha256": "87dba4c0d1d6602d42d5ad28992e6b0adb608aa03a0b899f2eee844975b17dbd"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -18,18 +18,19 @@
     "default": {
         "html5lib": {
             "hashes": [
-                "sha256:20b159aa3badc9d5ee8f5c647e5efd02ed2a66ab8d354930bd9ff139fc1dc0a3",
-                "sha256:66cb0dcfdbbc4f9c3ba1a63fdb511ffdbd4f513b2b6d81b80cd26ce6b3fb3736"
+                "sha256:0d78f8fde1c230e99fe37986a60526d7049ed4bf8a9fadbad5f00e22e58e041d",
+                "sha256:b2e5b40261e20f354d198eae92afc10d750afb487ed5e50f9c4eaf07c184146f"
             ],
-            "version": "==1.0.1"
+            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3, 3.4'",
+            "version": "==1.1"
         },
         "mechanize": {
             "hashes": [
-                "sha256:b1f9c755867869c4be54c0d506418353b67a89c2a10fff0c933c6ac00754ebc5",
-                "sha256:b680ca1b4fabe5ef52024d120f40b8e2ed7d175ed4d67225d2c477dac7c7a58b"
+                "sha256:c5e416032ae84e3b031fb3d14d9069f846af46155750d3d48f68c7cf5cc3d9e9",
+                "sha256:d16cea241253b5eb6380bf8a46627cad91d1f2c3f93a33279a31ce276d6c5d44"
             ],
             "index": "pypi",
-            "version": "==0.4.2"
+            "version": "==0.4.6"
         },
         "requests": {
             "hashes": [
@@ -40,10 +41,11 @@
         },
         "six": {
             "hashes": [
-                "sha256:3350809f0555b11f552448330d0b52d5f24c91a322ea4a15ef22629740f3761c",
-                "sha256:d16a0141ec1a18405cd4ce8b4613101da75da0e9a7aec5bdd4fa804d0e0eba73"
+                "sha256:1e61c37477a1626458e36f7b1d82aa5c9b094fa4802892072e49de9c60c4c926",
+                "sha256:8abb2f1d86890a2dfb989f9a77cfcfd3e47c2a354b01111771326f8aa26e0254"
             ],
-            "version": "==1.12.0"
+            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3'",
+            "version": "==1.16.0"
         },
         "telebot": {
             "hashes": [
